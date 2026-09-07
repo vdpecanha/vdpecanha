@@ -1,5 +1,5 @@
 ## Olá, sou o Victor Peçanha! 👋
-**Estudante de Engenharia da Computação na FIAP** - **Estagiário Full Stack** - **São Paulo, Brasil** 
+**Estudante de Engenharia da Computação na FIAP** - **Estagiário Full Stack (Mackenzie)** - **São Paulo, Brasil** 
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-nine-pi-85.vercel.app/api?username=vdpecanha&show_icons=true&hide_border=true&count_private=true" />
