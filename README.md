@@ -2,7 +2,7 @@
 **Estudante de Engenharia da Computação na FIAP** - **Estagiário Full Stack (Mackenzie)** - **São Paulo, Brasil** 
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-nine-pi-85.vercel.app/api?username=vdpecanha&show_icons=true&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-nine-pi-85.vercel.app/api?username=vdpecanha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://github-readme-stats-nine-pi-85.vercel.app/api/top-langs/?username=vdpecanha&layout=compact&hide_border=true&card_width=400" />
 </p>
 
