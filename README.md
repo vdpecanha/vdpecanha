@@ -21,7 +21,7 @@
 > Desenvolvimento de um sistema para economizar e maximizar os ganhos na agricultura, em parceria com a empresa John Deere. Esse sistema era composto por um dispositivo capaz de medir diversos aspectos, com seu **BME280** e **Bh1750fvi** sendo levados para nossa central via **LoRa**, onde eram feitos os cálculos para se ter um maior rendimento na produção.
 <br>
 
-• **👁️ DataCore**
+• **👁️ DataCore (Campeão NEXT 🥇)**
 > Um projeto baseado em visão computacional. Um hardware composto por sensores de presença e temperatura realizam as coletas de dados para que a raspberry pi 4 faça o uso no nosso sistema para verificar imagens das câmeras em instituições educacionais. Ferramentas utilizadas: **FastAPI**, **SQLite**, **CSS**, **Tailwind**, **Python**.
 <br>
 
