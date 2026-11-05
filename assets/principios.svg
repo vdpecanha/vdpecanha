@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="112" viewBox="0 0 840 112" role="img" aria-label="Celular primeiro, Performance desde o início, Código claro, sem atalho, Perto de quem usa">
+<title>Celular primeiro, Performance desde o início, Código claro, sem atalho, Perto de quem usa</title>
+<style>
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.run{stroke-dasharray:9 91;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-100}}
+.shine{animation:shine 8s ease-in-out infinite}
+@keyframes shine{0%,72%{transform:translateX(-420px)}100%{transform:translateX(1300px)}}
+.ln{stroke-dasharray:100;stroke-dashoffset:100;animation:ln 1.4s ease forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.emo{font:22px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif}
+.ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#95A3BA}
+.cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#6CB6FF}
+.cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C4CFE0}
+.cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#7F8CA3}
+.nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C4CFE0}
+.mk{font:400 20px Georgia,'Times New Roman',serif;fill:#6CB6FF}
+.mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.ms{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#95A3BA}
+.gt{font:700 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.pt{font:700 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.ps{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#95A3BA}
+.at{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.as{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#95A3BA}
+.ap{font:700 9.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.2px;fill:#6CB6FF}
+.al{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C4CFE0}
+@keyframes gd0{0%,0%{stroke:#232D40;fill:#0F1420}4%,23%{stroke:#6CB6FF;fill:#142238}27%,100%{stroke:#232D40;fill:#0F1420}}.gd0{animation:gd0 8s ease infinite}@keyframes gd1{0%,25%{stroke:#232D40;fill:#0F1420}29%,48%{stroke:#6CB6FF;fill:#142238}52%,100%{stroke:#232D40;fill:#0F1420}}.gd1{animation:gd1 8s ease infinite}@keyframes gd2{0%,50%{stroke:#232D40;fill:#0F1420}54%,73%{stroke:#6CB6FF;fill:#142238}77%,100%{stroke:#232D40;fill:#0F1420}}.gd2{animation:gd2 8s ease infinite}@keyframes gd3{0%,75%{stroke:#232D40;fill:#0F1420}79%,98%{stroke:#6CB6FF;fill:#142238}100%,100%{stroke:#232D40;fill:#0F1420}}.gd3{animation:gd3 8s ease infinite}</style>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A5D3FF"/><stop offset="1" stop-color="#2F6FB8"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#DCEEFF" stop-opacity="0"/><stop offset=".5" stop-color="#DCEEFF" stop-opacity=".09"/><stop offset="1" stop-color="#DCEEFF" stop-opacity="0"/></linearGradient>
+</defs>
+<g class="up" style="animation-delay:0.10s"><rect class="gd0" x="1.0" y="1" width="198.2" height="110" rx="14" fill="#0F1420" stroke="#232D40" stroke-width="1.4"/><text class="emo" x="100.1" y="44" text-anchor="middle">📱</text><text class="gt" x="100.1" y="72" text-anchor="middle">Celular</text><text class="gt" x="100.1" y="90" text-anchor="middle">primeiro</text></g>
+<g class="up" style="animation-delay:0.22s"><rect class="gd1" x="214.2" y="1" width="198.2" height="110" rx="14" fill="#0F1420" stroke="#232D40" stroke-width="1.4"/><text class="emo" x="313.4" y="44" text-anchor="middle">⚡</text><text class="gt" x="313.4" y="72" text-anchor="middle">Performance</text><text class="gt" x="313.4" y="90" text-anchor="middle">desde o início</text></g>
+<g class="up" style="animation-delay:0.34s"><rect class="gd2" x="427.5" y="1" width="198.2" height="110" rx="14" fill="#0F1420" stroke="#232D40" stroke-width="1.4"/><text class="emo" x="526.6" y="44" text-anchor="middle">🧩</text><text class="gt" x="526.6" y="72" text-anchor="middle">Código claro,</text><text class="gt" x="526.6" y="90" text-anchor="middle">sem atalho</text></g>
+<g class="up" style="animation-delay:0.46s"><rect class="gd3" x="640.8" y="1" width="198.2" height="110" rx="14" fill="#0F1420" stroke="#232D40" stroke-width="1.4"/><text class="emo" x="739.9" y="44" text-anchor="middle">🤝</text><text class="gt" x="739.9" y="72" text-anchor="middle">Perto de</text><text class="gt" x="739.9" y="90" text-anchor="middle">quem usa</text></g>
+</svg>

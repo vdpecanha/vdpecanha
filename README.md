@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A5D3FF,100:2F6FB8&height=200&section=header&text=Victor%20Pe%C3%A7anha&fontColor=07111F&fontSize=44&fontAlignY=36&desc=front-end%20que%20vira%20produto&descAlignY=58&descColor=07111F&descSize=19&animation=fadeIn" width="100%" alt="Victor Peçanha" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A5D3FF,100:2F6FB8&height=200&section=header&text=Victor%20Pe%C3%A7anha&fontColor=07111F&fontSize=44&fontAlignY=36&desc=Forward%20Deployed%20Engineer&descAlignY=58&descColor=07111F&descSize=19&animation=fadeIn" width="100%" alt="Victor Peçanha" />
 
 <a href="https://github.com/vdpecanha">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1300&color=3D8BDA&center=true&vCenter=true&width=700&lines=Next.js+%C2%B7+React+%C2%B7+TypeScript;Forward+Deployed+Engineer+na+Dell+Anno;Engenharia+de+Computa%C3%A7%C3%A3o+na+FIAP" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1300&color=3D8BDA&center=true&vCenter=true&width=700&lines=FDE+na+Dell+Anno+Atelier;Next.js+%C2%B7+React+%C2%B7+TypeScript;Engenharia+de+Computa%C3%A7%C3%A3o+na+FIAP" alt="" />
 </a>
 
 <br/>
@@ -16,15 +16,15 @@
 
 <br/><br/>
 
-**Construo interfaces em Next.js e React que chegam ao usuário,<br/>do dashboard ao reconhecimento facial rodando na borda.**
+**Forward Deployed Engineer na Dell Anno Atelier:<br/>vou até o problema e entrego a solução no ar.**
 
-<sub>Engenharia de Computação na FIAP · ex-estagiário de front-end no Mackenzie.</sub>
+<sub>Next.js, React e TypeScript · Engenharia de Computação na FIAP.</sub>
 
 <br/>
 
 <picture>
   <source media="(max-width: 700px)" srcset="assets/papeis-celular.svg" />
-  <img src="assets/papeis.svg" width="100%" alt="FDE, Eng. de Computação, Front-end" />
+  <img src="assets/papeis.svg" width="100%" alt="FDE, Eng. de Computação, Campeão NEXT 2026" />
 </picture>
 
 <br/>
@@ -39,7 +39,7 @@
 
 <picture>
   <source media="(max-width: 700px)" srcset="assets/cases-celular.svg" />
-  <img src="assets/cases.svg" width="100%" alt="Cases: Campus Consciente, GAVS-6, MackEnsina, Backoffice v2" />
+  <img src="assets/cases.svg" width="100%" alt="Cases: Campus Consciente, GAVS-6, Mackenzie" />
 </picture>
 
 </div>
@@ -60,19 +60,38 @@
 - **Solução:** dispositivo com sensores BME280 e BH1750 que mede as condições do campo e envia via LoRa para uma central, onde são feitos os cálculos de rendimento.
 - **Meu papel:** participei do desenvolvimento em equipe.
 
-**📊 MackEnsina** · estágio em front-end
-- **Problema:** a plataforma educacional precisava de painéis e conteúdos multimídia fáceis de usar no computador e no celular.
-- **Solução:** dashboard de FAQ com widgets em três tamanhos e gráficos SVG interativos, indicadores educacionais editáveis, a área de Recursos com vídeo e a remodelação do SME Cast com busca e carrossel de episódios.
+**📊 Mackenzie** · estágio em front-end
+- **Problema:** a plataforma educacional MackEnsina e o backoffice interno precisavam de painéis e conteúdos fáceis de usar no computador e no celular.
+- **Solução:** no MackEnsina, dashboard de FAQ com gráficos SVG interativos, indicadores educacionais editáveis, área de Recursos com vídeo e a remodelação do SME Cast; no backoffice, o módulo de e-learning com sub-módulo de BNCC, entregue.
 - **Meu papel:** desenvolvi o front-end desses módulos em equipe, de componentes e estados de carregamento à integração com a API.
-
-**🗂️ Backoffice v2** · estágio em front-end
-- **Problema:** o backoffice interno não tinha onde organizar conteúdos de e-learning alinhados à BNCC.
-- **Solução:** módulo de e-learning com um sub-módulo de BNCC, entregue e pronto.
-- **Meu papel:** desenvolvi o módulo no front-end.
 
 <sub>Fontes: resultado oficial do NEXT 2026 (FIAP), outubro de 2026.</sub>
 
 </details>
+
+<br/>
+
+<div align="center">
+
+## 🧠 Como eu trabalho
+
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/metodo-celular.svg" />
+  <img src="assets/metodo.svg" width="100%" alt="Ouvir, Desenhar, Construir, Ajustar" />
+</picture>
+
+| Dev por demanda | Forward Deployed Engineer |
+|:---:|:---:|
+| Recebe a tarefa e entrega a tela. | **Vai até o problema e entrega a solução.** |
+
+**Do que eu não abro mão:**
+
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/principios-celular.svg" />
+  <img src="assets/principios.svg" width="100%" alt="Celular primeiro, Performance desde o início, Código claro, sem atalho, Perto de quem usa" />
+</picture>
+
+</div>
 
 <br/>
 
